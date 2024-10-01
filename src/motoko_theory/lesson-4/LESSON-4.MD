@@ -70,7 +70,7 @@ actor {
 };
 ```
 
-> Candid is sometimes called "**the language of the Internet Computer**" as it how canisters communicate with each other. You will rarely have to write Candid but it's important to understand why Candid was created, how to read it, and how it works since you'll encounter Candid files in the projects you will work on.
+> Candid is sometimes called "**the language of the Internet Computer**" as it is how canisters communicate with each other. You will rarely have to write Candid but it's important to understand why Candid was created, how to read it, and how it works since you'll encounter Candid files in the projects you will work on.
 
 ## Interacting with a canister
 
